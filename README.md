@@ -6,13 +6,13 @@
 
 ---
 
-## [Simple](https://kaiyuan.github.io/sponsor-page/simple/)
+## [Simple](https://kwaiyu.github.io/sponsor-page/simple/)
 
 ![Donate Page Simple](https://i.imgur.com/AyAMkjR.gif)
 
 ---
 
-## [Drinks](https://kaiyuan.github.io/sponsor-page/drinks/)
+## [Drinks](https://kwaiyu.github.io/sponsor-page/drinks/)
 ![Donate Page Drinks](https://i.imgur.com/D0QexBl.gif)
 
 ---
